@@ -37,12 +37,12 @@ entities: # Сущности расширенной метамодели
           {
             "icon": *.icon,
             "link": "entities/ceaf.ia.business_entities/business_entities_list",
-            "location": "Архитектура/Информационная/Бизнес-сущности"
+            "location": "Архитектура/Информационная/Бизнес-сущности/Список бизнес-сущностей"
           },
           {
             "icon": *.icon,
             "link": "entities/ceaf.ia.business_entities/business_entities_in_systems",
-            "location": "Архитектура/Информационная/Список бизнес-сущностей в системах"            
+            "location": "Архитектура/Информационная/Бизнес-сущности/Список бизнес-сущностей в системах"            
           }
         ]
       )
